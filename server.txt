@@ -1,1 +1,1 @@
-ini8762.vercel.app
+server-1-seven.vercel.app
