@@ -1,1 +1,1 @@
-http://server-998.vercel.app
+http://20.205.19.24
